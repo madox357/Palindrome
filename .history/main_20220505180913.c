@@ -27,5 +27,4 @@ int main()
          printf("This number is not a palindrome \n");
 
     return 0;
-    //change2
 }
